@@ -60,6 +60,13 @@ to data analysis and programming, I enjoy exploring effective ways of communicat
 
 ### Shiny apps
 
-```{r}
-knitr::include_app("https://utrecht-university.shinyapps.io/oceanexplorer/", height = "600px")
-```
+<table>
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<tr><td><a href="https://utrecht-university.shinyapps.io/oceanexplorer/"><img width="140px" src="https://github.com/MartinSchobben/oceanexplorer/blob/master/man/figures/oceanexplorer-demo.gif?raw=true"></a></td>
+<td><a href="https://utrecht-university.shinyapps.io/oceanexplorer/"> Easy exploration of the NOAA world ocean atlas<br/></td></tr>
+
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+</table>
+

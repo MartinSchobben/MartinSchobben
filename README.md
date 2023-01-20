@@ -70,8 +70,16 @@ webinar - First steps in exploring data with R</a> <br/>
 
 ### Shiny apps
 
-``` r
-knitr::include_app("https://utrecht-university.shinyapps.io/oceanexplorer/", height = "600px")
-```
-
-<a href="https://utrecht-university.shinyapps.io/oceanexplorer/" target="_blank"><img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" /></a>
+<table>
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<tr>
+<td>
+<a href="https://utrecht-university.shinyapps.io/oceanexplorer/"><img width="140px" src="https://github.com/MartinSchobben/oceanexplorer/blob/master/man/figures/oceanexplorer-demo.gif?raw=true"></a>
+</td>
+<td>
+<a href="https://utrecht-university.shinyapps.io/oceanexplorer/"> Easy
+exploration of the NOAA world ocean atlas<br/>
+</td>
+</tr>
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+</table>
