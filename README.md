@@ -2,19 +2,25 @@
 
 </br>
 <p align="center">
-  <img src="https://github.com/MartinSchobben/MartinSchobben/blob/main/ArasValley.jpeg?raw=true" style="width:500px;">     
+  <img src="https://github.com/MartinSchobben/MartinSchobben/blob/main/ArasValley.png?raw=true" style="width:100%;">     
   </br>
 </p>
-
-</br>
 </br>
 
 <p style="text-align: justify;">
 I am a geoscientist who applies creative, data-driven solutions to answer fundamental questions about the Earth system. In addition to a strong affinity
-to data analysis and programming, I enjoy exploring effective ways of communicating results through the optimization of graphical representations. The development of solutions for the data management and open science are currently one of my main interests (see also the [FAIReLABS](https://github.com/FAIReLABS) organization).
+to data analysis and programming, I enjoy exploring effective ways of communicating results through the optimization of graphical representations. The development of solutions for the data management and open science are currently one of my main interests.
 </p>
 
-</br>
+---
+
+### Organizations
+
+ - [FAIReLABS](https://github.com/FAIReLABS): Integrated lab solutions for an open science lab
+
+---
+
+### YouTube videos
 
 <table>
 
