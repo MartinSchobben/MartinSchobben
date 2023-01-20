@@ -3,14 +3,9 @@
 
 ### Martin Schobben
 
-</br>
 <p align="center">
-<img src="https://github.com/MartinSchobben/MartinSchobben/blob/main/ArasValley.png?raw=true" style="width:100%;">  
-</br>
+<img src="https://github.com/MartinSchobben/MartinSchobben/blob/main/ArasValley.png?raw=true" style="width:100%;">
 </p>
-
-</br>
-
 <p style="text-align: justify;">
 I am a geoscientist who applies creative, data-driven solutions to
 answer fundamental questions about the Earth system. In addition to a
