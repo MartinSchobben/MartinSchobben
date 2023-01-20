@@ -70,4 +70,8 @@ webinar - First steps in exploring data with R</a> <br/>
 
 ### Shiny apps
 
-![oceanexplorer](https://utrecht-university.shinyapps.io/oceanexplorer/)
+``` r
+knitr::include_app("https://utrecht-university.shinyapps.io/oceanexplorer/", height = "600px")
+```
+
+<a href="https://utrecht-university.shinyapps.io/oceanexplorer/" target="_blank"><img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" /></a>

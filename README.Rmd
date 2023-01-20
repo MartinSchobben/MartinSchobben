@@ -60,5 +60,6 @@ to data analysis and programming, I enjoy exploring effective ways of communicat
 
 ### Shiny apps
 
-![oceanexplorer](https://utrecht-university.shinyapps.io/oceanexplorer/)
-
+```{r}
+knitr::include_app("https://utrecht-university.shinyapps.io/oceanexplorer/", height = "600px")
+```
