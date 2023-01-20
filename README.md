@@ -72,8 +72,8 @@ webinar - First steps in exploring data with R</a> <br/>
 <a href="https://utrecht-university.shinyapps.io/oceanexplorer/"><img width="140px" src="https://github.com/MartinSchobben/oceanexplorer/blob/master/man/figures/oceanexplorer-demo.gif?raw=true"></a>
 </td>
 <td>
-<a href="https://utrecht-university.shinyapps.io/oceanexplorer/"> Easy
-exploration of the NOAA world ocean atlas<br/>
+<a href="https://utrecht-university.shinyapps.io/oceanexplorer/">
+Oceanexplorer: Easy exploration of the NOAA world ocean atlas<br/>
 </td>
 </tr>
 <tr>
@@ -81,8 +81,9 @@ exploration of the NOAA world ocean atlas<br/>
 <a href="https://martinschobben.shinyapps.io/timemachine/"><img width="140px" src="https://github.com/MartinSchobben/MartinSchobben/blob/main/timemachine.png?raw=true"></a>
 </td>
 <td>
-<a href="https://martinschobben.shinyapps.io/timemachine/"> Educational
-app for understanding past, current and future climate change<br/>
+<a href="https://martinschobben.shinyapps.io/timemachine/"> Timemachine:
+Educational app for understanding past, current and future climate
+change<br/>
 </td>
 </tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
