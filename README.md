@@ -32,21 +32,21 @@ management and open science are currently one of my main interests.
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 <tr>
 <td>
-<a href="https://www.youtube.com/watch?v=nBpmkTWji-g"><img width="140px" src="https://i.ytimg.com/vi/nBpmkTWji-g/hqdefault_17900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6AYnBovXOj1-59J00wlbNMX1-HA"></a>
-</td>
-<td>
-<a href="https://www.youtube.com/watch?v=nBpmkTWji-g"> Towards the
-FAIRification of lab-data</a> (Jun 2022, Leuven, Belgium)<br/>
-</td>
-</tr>
-<tr>
-<td>
 <a href="https://www.youtube.com/watch?v=tZbWstlXKzE"><img width="140px" src="https://i.ytimg.com/vi/tZbWstlXKzE/hqdefault_12866.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAmEk2OnOalir9K4oBq90LwYutNGw"></a>
 </td>
 <td>
 <a href="https://www.youtube.com/watch?v=tZbWstlXKzE"> TRiRODS: rirods:
 A first release of a pure R package for iRODS</a> (Dec 2022, Chapel
 Hill, US)<br/>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://www.youtube.com/watch?v=nBpmkTWji-g"><img width="140px" src="https://i.ytimg.com/vi/nBpmkTWji-g/hqdefault_17900.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6AYnBovXOj1-59J00wlbNMX1-HA"></a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=nBpmkTWji-g"> Towards the
+FAIRification of lab-data</a> (July 2022, Leuven, Belgium)<br/>
 </td>
 </tr>
 <tr>
