@@ -81,8 +81,8 @@ FAIRification of lab-data</a> (July 2022, Leuven, Belgium)<br/>
 
 <td>
 
-<a href="https://www.youtube.com/watch?v=r99jsChi4HU"> PAGES ECN webinar
-- First steps in exploring data with R</a> <br/>
+<a href="https://www.youtube.com/watch?v=r99jsChi4HU"> PAGES ECN
+webinar: First steps in exploring data with R</a> <br/>
 
 </td>
 
